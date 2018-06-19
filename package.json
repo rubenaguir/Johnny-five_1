@@ -1,0 +1,14 @@
+{
+  "name": "johnny-five_1",
+  "version": "1.0.0",
+  "description": "Prueba JohnnyFive",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ruben Aguirre",
+  "license": "ISC",
+  "dependencies": {
+    "johnny-five": "^0.15.0"
+  }
+}
